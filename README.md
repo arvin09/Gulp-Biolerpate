@@ -1,15 +1,42 @@
-# Gulp-Biolerpate
-This is gulp boilerpate
+# Gulp Boilerplate
 
-To start using this follow the below steps
+##About
+This boilerplate has tasks for
 
-1. Install node
+1. Sass complilation to css
 
-2. Download this repo
+2. Script file minification, uglyfication & concatination
 
-3. cd this downloaded repo 
+3. Image optimization
 
-4. do npm install 
+will be gradually updating it to have a complete gulp biolerplate 
 
+##Starter 
+Download this project place all your script files inside the below folder
+```bash
+src/scripts
+```
 
+## Getting Started
 
+```bash
+$ cd GulpMe
+```
+
+Install dependencies:
+
+```bash
+$ npm install
+```
+
+## Usage
+
+```bash
+$ gulp 
+```
+
+Find the minified version of the your script files in 
+
+```bash
+'dist/assets/js'
+```
