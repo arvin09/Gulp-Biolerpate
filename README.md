@@ -15,7 +15,7 @@ will be gradually updating it to have a complete gulp biolerplate
 
 Note : Make sure you have node install on you machine
 
-Download this project place all your script files inside the below folder
+Download this repository place all your script files inside the below folder
 ```bash
 src/scripts
 ```
