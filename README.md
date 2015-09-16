@@ -23,7 +23,7 @@ src/scripts
 ## Getting Started
 
 ```bash
-$ cd GulpMe
+$ cd Gulp-Boilerplate       i.e. the downloaded directory name
 ```
 
 Install dependencies:
