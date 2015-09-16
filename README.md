@@ -12,6 +12,9 @@ This boilerplate has tasks for
 will be gradually updating it to have a complete gulp biolerplate 
 
 ##Starter 
+
+Note : Make sure you have node install on you machine
+
 Download this project place all your script files inside the below folder
 ```bash
 src/scripts
