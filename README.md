@@ -3,11 +3,11 @@
 ##About
 This boilerplate has tasks for
 
-1. Sass complilation to css
+1. Sass complilation to css.
 
-2. Script file minification, uglyfication & concatination
+2. Script file minification, uglyfication & concatination.
 
-3. Image optimization
+3. Image optimization.
 
 will be gradually updating it to have a complete gulp biolerplate 
 
@@ -15,9 +15,9 @@ will be gradually updating it to have a complete gulp biolerplate
 
 Note : Make sure you have node install on you machine
 
-Download this repository place all your script files inside the below folder
+Download this repository, place all your script files to minify inside the below folder
 ```bash
-src/scripts
+'src/scripts'
 ```
 
 ## Getting Started
