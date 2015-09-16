@@ -38,7 +38,7 @@ $ npm install
 $ gulp 
 ```
 
-Find the minified version of the your script files in 
+Find the minified version of your script files inside 
 
 ```bash
 'dist/assets/js'
